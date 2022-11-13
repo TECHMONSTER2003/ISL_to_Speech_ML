@@ -1,1 +1,2 @@
 # ISL_to_Speech_ML
+Deaf is the inability to hear and dumb is the inability to speak. They communicate using sign language among themselves and with normal people but normal people do not take seriously the importance of sign language. A device must be developed for translating normal speech in any language to sign language in form of images and sign language to normal speech in form of audio. This can be facilitated by using machine learning and advanced python libraries
